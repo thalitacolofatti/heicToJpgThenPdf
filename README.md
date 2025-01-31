@@ -1,5 +1,9 @@
 # Image converter
 
-This automation was made to convert HEIC images to JPG. 
+This automation was made initially to convert HEIC images to JPG. 
 
-Next step, it will print the JPG imagens to a single pdf file.
+file: main.py
+
+Then it was made an additional python file to optimize the JPG images, then convert them to a single pdf file.
+
+file: pdfcomp.py
